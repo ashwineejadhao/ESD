@@ -16,5 +16,3 @@
             If number = 2, the method should print 2’s table till 10th power.
       d.	public void findPrime(int number)
             Based upon the number, the method should print if it is prime or not.
-
-
