@@ -2,10 +2,10 @@
 
 2.	Create a class Student having the following attributes: id, name, percentage, grade. Assume suitable data types. Calculate grade of a student based on the following description: 
 
-      •	percentage- less than 40, fails.
-      •	percentage- between 40 and 60, 2nd Class.
-      •	percentage- between 60 and 75, 1st Class.
-      •	percentage- between 75 and 100, Distinction Class.
+      	•	percentage- less than 40, fails.
+      	•	percentage- between 40 and 60, 2nd Class.
+      	•	percentage- between 60 and 75, 1st Class.
+      	•	percentage- between 75 and 100, Distinction Class.
 
 3.	Create a class TestMaths having the following:
       a.	public void power(int base, int index)
